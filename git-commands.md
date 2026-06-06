@@ -17,3 +17,6 @@ What it does: Sets your Git email
 Example:
 
 git config --global user.email "kalyani@example.com"
+
+basic command
+git add git commit -m git log 
